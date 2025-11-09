@@ -1,6 +1,9 @@
 # CTSP Instance Reader
 
 A C++ library for reading and parsing Consistent Traveling Salesman Problem (CTSP) instances in TSPLIB format.
+Instances provided by
+> *A Decomposition Algorithm for the Consistent Traveling Salesman Problem with Vehicle Idling*,  
+> Anirudh Subramanyam and Chrysanthos E. Gounaris, *Transportation Science* (2018), 52(2), 386–401.
 
 ## Overview
 
