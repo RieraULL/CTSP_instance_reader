@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ftv38_p5_f50_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  5774
+                                Optimal value allowing waiting    :  5732
+Dimension                     : 39
+Number of days                : 5
+Distance                      : 1292
+Maximum allowable differential: 235
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : FULL_MATRIX
+Reading distances             : 39
+Reading demands               : 39
+Depot                         : 1
+EOF                           : 
+

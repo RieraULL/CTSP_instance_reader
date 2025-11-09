@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : gr21_p3_f50_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  6859
+                                Optimal value allowing waiting    :  6859
+Dimension                     : 21
+Number of days                : 3
+Distance                      : 2701
+Maximum allowable differential: 491
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : LOWER_DIAG_ROW
+Reading distances             : 21
+Reading demands               : 21
+Depot                         : 1
+EOF                           : 
+

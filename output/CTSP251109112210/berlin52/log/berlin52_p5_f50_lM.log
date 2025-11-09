@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : berlin52_p5_f50_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 29390
+                                Optimal value allowing waiting    : 29313
+Dimension                     : 52
+Number of days                : 5
+Distance                      : 6691
+Maximum allowable differential: 912
+Edge Weigh Type               : EUC_2D
+Reading coords                : 52
+Reading demands               : 52
+Depot                         : 1
+EOF                           : 
+

@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ulysses22_p5_f90_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 33930
+                                Optimal value allowing waiting    : 33904
+Dimension                     : 22
+Number of days                : 5
+Distance                      : 7662
+Maximum allowable differential: 696
+Edge Weigh Type               : GEO
+Display Data Type             : COORD_DISPLAY
+Reading coords                : 22
+Reading demands               : 22
+Depot                         : 1
+EOF                           : 
+

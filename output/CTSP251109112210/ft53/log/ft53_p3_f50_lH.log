@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ft53_p3_f50_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 16812
+                                Optimal value allowing waiting    : 16812
+Dimension                     : 53
+Number of days                : 3
+Distance                      : 6119
+Maximum allowable differential: 1112
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : FULL_MATRIX
+Reading distances             : 53
+Reading demands               : 53
+Depot                         : 1
+EOF                           : 
+

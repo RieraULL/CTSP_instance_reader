@@ -1,0 +1,18 @@
+--  Reading input file  --: 
+
+File                          : burma14_p5_f70_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 14313
+                                Optimal value allowing waiting    : 14249
+Dimension                     : 14
+Number of days                : 5
+Distance                      : 3418
+Maximum allowable differential: 466
+Edge Weigh Type               : GEO
+Edge Weigh Format             : FUNCTION
+Display Data Type             : COORD_DISPLAY
+Reading coords                : 14
+Reading demands               : 14
+Depot                         : 1
+EOF                           : 
+

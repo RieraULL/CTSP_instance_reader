@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : gr96_p5_f50_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 207842
+                                Optimal value allowing waiting    : 205028
+Dimension                     : 96
+Number of days                : 5
+Distance                      : 50153
+Maximum allowable differential: 9118
+Edge Weigh Type               : GEO
+Display Data Type             : COORD_DISPLAY
+Reading coords                : 96
+Reading demands               : 96
+Depot                         : 1
+EOF                           : 
+

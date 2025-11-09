@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ulysses16_p5_f50_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 28816
+                                Optimal value allowing waiting    : 28783
+Dimension                     : 16
+Number of days                : 5
+Distance                      : 6880
+Maximum allowable differential: 938
+Edge Weigh Type               : GEO
+Display Data Type             : COORD_DISPLAY
+Reading coords                : 16
+Reading demands               : 16
+Depot                         : 1
+EOF                           : 
+

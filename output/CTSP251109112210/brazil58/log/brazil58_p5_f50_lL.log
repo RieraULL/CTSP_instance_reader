@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : brazil58_p5_f50_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 105861
+                                Optimal value allowing waiting    : 105762
+Dimension                     : 58
+Number of days                : 5
+Distance                      : 24159
+Maximum allowable differential: 2196
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : UPPER_ROW
+Reading distances             : 58
+Reading demands               : 58
+Depot                         : 1
+EOF                           : 
+

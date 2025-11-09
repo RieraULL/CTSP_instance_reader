@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ry48p_p3_f90_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 41760
+                                Optimal value allowing waiting    : 41737
+Dimension                     : 48
+Number of days                : 3
+Distance                      : 15776
+Maximum allowable differential: 1434
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : FULL_MATRIX
+Reading distances             : 48
+Reading demands               : 48
+Depot                         : 1
+EOF                           : 
+

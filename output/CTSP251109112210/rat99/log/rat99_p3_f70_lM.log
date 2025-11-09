@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : rat99_p3_f70_lM
+Comment                       : Optimal value not allowing waiting:  3124
+                                Optimal value allowing waiting    :  3124
+Type                          : CONTSP
+Dimension                     : 99
+Number of days                : 3
+Distance                      : 1164
+Maximum allowable differential: 158
+Edge Weigh Type               : EUC_2D
+Reading coords                : 99
+Reading demands               : 99
+Depot                         : 1
+EOF                           : 
+

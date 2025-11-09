@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ft53_p3_f90_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 20172
+                                Optimal value allowing waiting    : 20172
+Dimension                     : 53
+Number of days                : 3
+Distance                      : 7537
+Maximum allowable differential: 1027
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : FULL_MATRIX
+Reading distances             : 53
+Reading demands               : 53
+Depot                         : 1
+EOF                           : 
+

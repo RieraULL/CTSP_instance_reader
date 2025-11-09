@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : gr17_p3_f70_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  5563
+                                Optimal value allowing waiting    :  5534
+Dimension                     : 17
+Number of days                : 3
+Distance                      : 2068
+Maximum allowable differential: 387
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : LOWER_DIAG_ROW
+Reading distances             : 17
+Reading demands               : 17
+Depot                         : 1
+EOF                           : 
+

@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : rd100_p3_f90_lH
+Comment                       : Optimal value not allowing waiting: 22095
+                                Optimal value allowing waiting    : 22034
+Type                          : CONTSP
+Dimension                     : 100
+Number of days                : 3
+Distance                      : 8147
+Maximum allowable differential: 1481
+Edge Weigh Type               : EUC_2D
+Reading coords                : 100
+Reading demands               : 100
+Depot                         : 1
+EOF                           : 
+

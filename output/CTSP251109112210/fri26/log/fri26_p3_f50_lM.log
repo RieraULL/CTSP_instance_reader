@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : fri26_p3_f50_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  2167
+                                Optimal value allowing waiting    :  2167
+Dimension                     : 26
+Number of days                : 3
+Distance                      : 900
+Maximum allowable differential: 122
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : LOWER_DIAG_ROW
+Reading distances             : 26
+Reading demands               : 26
+Depot                         : 1
+EOF                           : 
+

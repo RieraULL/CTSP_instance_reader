@@ -1,0 +1,19 @@
+--  Reading input file  --: 
+
+File                          : bayg29_p5_f50_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  5585
+                                Optimal value allowing waiting    :  5415
+Dimension                     : 29
+Number of days                : 5
+Distance                      : 1248
+Maximum allowable differential: 113
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : UPPER_ROW
+Display Data Type             : TWOD_DISPLAY
+Reading distances             : 29
+Reading coords                : 29
+Reading demands               : 29
+Depot                         : 1
+EOF                           : 
+

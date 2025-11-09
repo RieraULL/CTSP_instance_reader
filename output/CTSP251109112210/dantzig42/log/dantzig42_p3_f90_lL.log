@@ -1,0 +1,19 @@
+--  Reading input file  --: 
+
+File                          : dantzig42_p3_f90_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  2046
+                                Optimal value allowing waiting    :  2046
+Dimension                     : 42
+Number of days                : 3
+Distance                      : 766
+Maximum allowable differential: 69
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : LOWER_DIAG_ROW
+Display Data Type             : TWOD_DISPLAY
+Reading distances             : 42
+Reading coords                : 42
+Reading demands               : 42
+Depot                         : 1
+EOF                           : 
+

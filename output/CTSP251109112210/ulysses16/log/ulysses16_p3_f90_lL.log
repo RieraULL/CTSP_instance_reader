@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : ulysses16_p3_f90_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 20212
+                                Optimal value allowing waiting    : 20212
+Dimension                     : 16
+Number of days                : 3
+Distance                      : 7417
+Maximum allowable differential: 674
+Edge Weigh Type               : GEO
+Display Data Type             : COORD_DISPLAY
+Reading coords                : 16
+Reading demands               : 16
+Depot                         : 1
+EOF                           : 
+

@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : swiss42_p3_f50_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:  3053
+                                Optimal value allowing waiting    :  3042
+Dimension                     : 42
+Number of days                : 3
+Distance                      : 1107
+Maximum allowable differential: 205
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : FULL_MATRIX
+Reading distances             : 42
+Reading demands               : 42
+Depot                         : 1
+EOF                           : 
+

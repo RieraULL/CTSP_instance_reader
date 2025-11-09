@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : hk48_p3_f50_lL
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 26449
+                                Optimal value allowing waiting    : 26026
+Dimension                     : 48
+Number of days                : 3
+Distance                      : 9982
+Maximum allowable differential: 907
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : LOWER_DIAG_ROW
+Reading distances             : 48
+Reading demands               : 48
+Depot                         : 1
+EOF                           : 
+

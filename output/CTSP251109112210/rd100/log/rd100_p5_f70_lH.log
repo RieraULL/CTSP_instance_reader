@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : rd100_p5_f70_lH
+Comment                       : Optimal value not allowing waiting: 35053
+                                Optimal value allowing waiting    : 35008
+Type                          : CONTSP
+Dimension                     : 100
+Number of days                : 5
+Distance                      : 7895
+Maximum allowable differential: 1435
+Edge Weigh Type               : EUC_2D
+Reading coords                : 100
+Reading demands               : 100
+Depot                         : 1
+EOF                           : 
+

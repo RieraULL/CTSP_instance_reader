@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : att48_p3_f70_lL
+Comment                       : Optimal value not allowing waiting: 26486
+                                Optimal value allowing waiting    : 26405
+Type                          : CONTSP
+Dimension                     : 48
+Number of days                : 3
+Distance                      : 10098
+Maximum allowable differential: 922
+Edge Weigh Type               : ATT
+Reading coords                : 48
+Reading demands               : 48
+Depot                         : 1
+EOF                           : 
+

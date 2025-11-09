@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : br17_p3_f90_lH
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting:   117
+                                Optimal value allowing waiting    :   117
+Dimension                     : 17
+Number of days                : 3
+Distance                      : 42
+Maximum allowable differential: 7
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : FULL_MATRIX
+Reading distances             : 17
+Reading demands               : 17
+Depot                         : 1
+EOF                           : 
+

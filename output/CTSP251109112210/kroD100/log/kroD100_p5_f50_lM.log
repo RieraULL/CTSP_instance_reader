@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : kroD100_p5_f50_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 80029
+                                Optimal value allowing waiting    : 79900
+Dimension                     : 100
+Number of days                : 5
+Distance                      : 17768
+Maximum allowable differential: 2422
+Edge Weigh Type               : EUC_2D
+Reading coords                : 100
+Reading demands               : 100
+Depot                         : 1
+EOF                           : 
+

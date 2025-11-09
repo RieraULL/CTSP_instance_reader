@@ -1,0 +1,17 @@
+--  Reading input file  --: 
+
+File                          : hk48_p5_f90_lM
+Type                          : CONTSP
+Comment                       : Optimal value not allowing waiting: 54306
+                                Optimal value allowing waiting    : 54276
+Dimension                     : 48
+Number of days                : 5
+Distance                      : 12499
+Maximum allowable differential: 1704
+Edge Weigh Type               : EXPLICIT
+Edge Weigh Format             : LOWER_DIAG_ROW
+Reading distances             : 48
+Reading demands               : 48
+Depot                         : 1
+EOF                           : 
+

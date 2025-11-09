@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : eil51_p3_f70_lM
+Comment                       : Optimal value not allowing waiting:  1012
+                                Optimal value allowing waiting    :  1012
+Type                          : CONTSP
+Dimension                     : 51
+Number of days                : 3
+Distance                      : 387
+Maximum allowable differential: 55
+Edge Weigh Type               : EUC_2D
+Reading coords                : 51
+Reading demands               : 51
+Depot                         : 1
+EOF                           : 
+

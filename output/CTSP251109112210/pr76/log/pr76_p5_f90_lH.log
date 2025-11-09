@@ -1,0 +1,16 @@
+--  Reading input file  --: 
+
+File                          : pr76_p5_f90_lH
+Comment                       : Optimal value not allowing waiting: 535349
+                                Optimal value allowing waiting    : 534827
+Type                          : CONTSP
+Dimension                     : 76
+Number of days                : 5
+Distance                      : 118629
+Maximum allowable differential: 21569
+Edge Weigh Type               : EUC_2D
+Reading coords                : 76
+Reading demands               : 76
+Depot                         : 1
+EOF                           : 
+
