@@ -1,6 +1,6 @@
 /**
  * @file PTSP_instance.cpp
- * @brief Implementation of the Probabilistic TSP instance class
+ * @brief Implementation of the Periodic TSP instance class
  */
 
 #include "PTSP_instance.hpp"

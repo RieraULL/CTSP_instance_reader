@@ -3,7 +3,7 @@
  * @brief Consistent Traveling Salesman Problem (CTSP) instance definition
  * 
  * This file defines the instance class for the Consistent Traveling Salesman Problem,
- * which extends the Probabilistic TSP (PTSP) with consistency constraints.
+ * which extends the Periodic TSP (PTSP) with consistency constraints.
  * 
  * The CTSP is a variant of the TSP where:
  * - Customers must be visited across multiple days/periods

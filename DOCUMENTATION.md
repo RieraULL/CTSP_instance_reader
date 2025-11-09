@@ -70,7 +70,7 @@ size_t operations = inst.get_n_customer_operations();
 
 ### 2. PTSP::instance
 
-**Purpose**: Base class for probabilistic/time-varying TSP instances.
+**Purpose**: Base class for Periodic/time-varying TSP instances.
 
 **Key Responsibilities**:
 - Store basic instance information (name, type, comment)

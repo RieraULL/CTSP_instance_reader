@@ -23,7 +23,7 @@ The Consistent Traveling Salesman Problem (CTSP) is a variant of the classical T
 
 ### Supported Instance Types
 - **TSP**: Classical Traveling Salesman Problem
-- **PTSP**: Probabilistic TSP with time-varying demands
+- **PTSP**: Periodic TSP with time-varying demands
 - **CTSP**: Consistent TSP with multi-day planning
 
 ### Supported Distance Metrics

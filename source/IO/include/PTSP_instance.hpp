@@ -1,8 +1,8 @@
 /**
  * @file PTSP_instance.hpp
- * @brief Probabilistic Traveling Salesman Problem (PTSP) instance definition
+ * @brief Periodic Traveling Salesman Problem (PTSP) instance definition
  * 
- * This file defines the base instance class for the Probabilistic TSP,
+ * This file defines the base instance class for the Periodic TSP,
  * which serves as a parent class for CTSP instances.
  * 
  * The PTSP extends the classical TSP by considering:
@@ -26,10 +26,10 @@ namespace PTSP
 {
     /**
      * @class instance
-     * @brief Base class for Probabilistic TSP instances
+     * @brief Base class for Periodic TSP instances
      * 
      * This class provides the fundamental data structures and operations
-     * for TSP-related problems with probabilistic or time-varying demands.
+     * for TSP-related problems with Periodic or time-varying demands.
      */
     class instance
     {
