@@ -371,6 +371,7 @@ Potential improvements:
 
 ### CTSP Papers
 - Subramanyam, A., & Gounaris, C. E. (2016). "A branch-and-cut framework for the consistent traveling salesman problem." European Journal of Operational Research, 248(2), 384-395.
+- Subramanyam, A., & Gounaris, C. E. (2018).  "A Decomposition Algorithm for the Consistent Traveling Salesman Problem with Vehicle Idling". Transportation Science, 52(2), 386–401.
 
 ### Implementation Notes
 - Uses C++11 features (uniform initialization, auto, etc.)
