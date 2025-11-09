@@ -11,14 +11,6 @@ This software provides comprehensive support for reading, parsing, and validatin
 - **Instance Validation**: Automatic checking of triangle inequality and symmetry properties
 - **CTSP Extensions**: Support for multi-day planning, customer demands, and consistency constraints
 
-## What is CTSP?
-
-The Consistent Traveling Salesman Problem (CTSP) is a variant of the classical TSP where:
-- Customers must be visited across multiple days/periods
-- There is a maximum allowable time differential (T) for service times at each customer
-- Each day has a maximum distance constraint
-- Solutions must maintain consistency in service patterns across days
-
 ## Features
 
 ### Supported Instance Types
