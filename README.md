@@ -1,9 +1,6 @@
 # CTSP Instance Reader
 
 A C++ library for reading and parsing Consistent Traveling Salesman Problem (CTSP) instances in TSPLIB format.
-Instances provided by
-> *A Decomposition Algorithm for the Consistent Traveling Salesman Problem with Vehicle Idling*,  
-> Anirudh Subramanyam and Chrysanthos E. Gounaris, *Transportation Science* (2018), 52(2), 386–401.
 
 ## Overview
 
@@ -185,6 +182,7 @@ See [LICENSE](LICENSE) file for details.
 
 - TSPLIB: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
 - Consistent TSP: Subramanyam, A., & Gounaris, C. E. (2016). A branch-and-cut framework for the consistent traveling salesman problem. European Journal of Operational Research, 248(2), 384-395.
+- Consistent TSP: Subramanyam, A., & Gounaris, C. E. (2018).  A Decomposition Algorithm for the Consistent Traveling Salesman Problem with Vehicle Idling. Transportation Science, 52(2), 386–401.
 
 ## Contributing
 
